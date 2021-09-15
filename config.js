@@ -1,10 +1,10 @@
-const ownerNumber = ["557187645787@s.whatsapp.net"] 
+const ownerNumber = ["559196070478@.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557187645787' 
+const OriginalOwner = '559196070478' 
 // mude para seu numero
 
-const callbotmsgs = ['orion', 'brizas']
+const callbotmsgs = ['orion', 'JARVIS
 
 var gimagenotregister = false
 // quando não há comando registrado o bot procura no google image
@@ -183,7 +183,7 @@ const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n' 
 + 'FN:Meu criador^~^\n' 
 + 'ORG:Ian;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=557187645787:+55 71 8764-5787\n' 
++ 'TEL;type=CELL;type=VOICE;waid=559196070478:+55 91 9607-0478\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
